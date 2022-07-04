@@ -1,0 +1,13 @@
+*
+{
+    padding: 0;
+    margin : 0;
+}
+body
+{
+    background-image: url(gif1.gif);
+    background-size: cover;
+    background-position: center;
+    
+     
+}
